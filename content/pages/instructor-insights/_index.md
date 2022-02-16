@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ee21bffc-07f2-936a-5534-8e7dc8b864c8
 ---
@@ -19,7 +21,7 @@ Course Outcomes
 
 *   Explore three ever-wider circles of ethical complexity: 1) individual and professional commitments; 2) the rights and responsibilities of corporations; and 3) the social and ethical underpinnings of business as an activity
 *   Define terms central to each of these circles
-*   Conduct a brief historical assessment of business and capital in the early 21st century
+*   Conduct a brief historical assessment of business and capital in the early 21{{< sup "st" >}} century
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -48,20 +50,6 @@ None
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Five curved rows of fixed seating with green chairs facing a lectern.]({{< resource_file 2ddd017f-b607-2d3c-c203-6fca370d188e >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom with tiered seating and A/V equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: ee21bffc-07f2-936a-5534-8e7dc8b864c8
 title: The Role of Teamwork
 uid: 0ad0c618-aaea-eaa0-5a95-0e772f9aa2ac
