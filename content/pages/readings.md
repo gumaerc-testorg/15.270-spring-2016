@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the readings and viewing assignments for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Readings
 uid: e73dce03-093a-c0e0-26a6-fc050f72f793
 ---
 
-A set of related [study questions]({{< baseurl >}}/pages/study-questions) are available for the readings and viewings in this course.
+A set of related {{% resource_link b2e6b48d-5946-40d4-5a8e-e67032869366 "study questions" %}} are available for the readings and viewings in this course.
 
 {{< tableopen >}}
 {{< theadopen >}}

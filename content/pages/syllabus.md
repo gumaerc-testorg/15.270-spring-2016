@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, writing assignments, and the schedule
+  of course topics and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -291,4 +294,4 @@ Students will submit:
 1.  Three team essays: In all three cases, the topic will correlate with the subject of one of our classes.
 2.  Individual writing assignment: The three team papers will serve as the springboard for your final, longer paper. This assignment represents 30% of your grade.
 
-For details, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For details, see the {{% resource_link 9bb38fe8-fa68-0615-4198-a18d1aba2587 "Assignments" %}} section.

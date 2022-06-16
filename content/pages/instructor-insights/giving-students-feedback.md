@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'In this section, Leigh Hafrey shares his insights about providing students
+  with feedback on their course assignments and class participation.   '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Leigh Hafrey discusses how he facilitates meaningful
+  discussions in the classroom by helping students appreciate and think deeply about
+  their differences.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
