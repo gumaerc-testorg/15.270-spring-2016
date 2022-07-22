@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 15.270 classroom
 uid: 2ddd017f-b607-2d3c-c203-6fca370d188e
 ---
 Five curved rows of fixed seating with green chairs facing a lectern. 
-
