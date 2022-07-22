@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Dr. Leigh Hafrey discusses how he facilitates meaningful
+  discussions in the classroom by helping students appreciate and think deeply about
+  their differences.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: ee21bffc-07f2-936a-5534-8e7dc8b864c8
 title: 'Fostering Meaningful Discussions '
 uid: 9a7085ec-2597-9b37-c704-4399c0c32778

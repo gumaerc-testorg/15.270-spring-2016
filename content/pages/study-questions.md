@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides study questions for each session of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Questions
 uid: b2e6b48d-5946-40d4-5a8e-e67032869366
 ---
