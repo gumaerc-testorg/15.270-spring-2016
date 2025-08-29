@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Five curved rows of fixed seating with green chairs facing a lectern. '
-file: /courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/2ddd017fb6072d3cc2036fca370d188e_15-270-classroom.jpg
+file: /ol-ocw-studio-app/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/2ddd017fb6072d3cc2036fca370d188e_15-270-classroom.jpg
 file_size: 57500
 file_type: image/jpeg
 image_metadata:
